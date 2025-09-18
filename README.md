@@ -1,0 +1,1 @@
+# IntelliDoc-Quiz-Summary-QnA-from-PDF
